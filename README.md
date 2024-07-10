@@ -1,0 +1,2 @@
+This is my first project after taking a Data Structures & Algorithms course. A game of tic tac toe can be played against a "bot" opponent (who places O's on spots based on a random number). Version 1.0 includes a pretty dumb bot that just places it's mark on a random spot.
+Version 2.0 will include increased difficulty. As of right now, the game can be played through a command line. Future versions will utilize a GUI system and .exe files rather than .java. Enjoy!
